@@ -8,10 +8,10 @@ Help needed? Join our Discord-Server!
 
 ---
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/Alberto-X3.png" alt="[Alberto-X3 Logo]">
 </p>
-<p align="left">
+<p align="center">
 The current version is <b>AlbertoX3 - V4</b>.</br>
 <i>
 It can be found <a href="https://github.com/Alberto-X3/Alberto-X3-V4">here</a>.
